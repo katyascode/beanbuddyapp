@@ -17,4 +17,10 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+
+  welcome: {
+    color: '#515165',
+
+  },
+
 });
